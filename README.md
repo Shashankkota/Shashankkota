@@ -68,5 +68,8 @@ I enjoy solving real-world problems, exploring new tools, and delivering impactf
 </p>
 
 ---
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
 ⭐ *"Keep learning, keep building, and stay curious!"*
