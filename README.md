@@ -7,7 +7,9 @@
 </p>
 
 ---
-
+## 💡 Daily Motivation
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=Raleway)
+---
 ## 🚀 About Me
 I am an enthusiastic B.Tech student eager to enter the tech industry, with hands-on experience in **software development, machine learning, cloud technologies, and data visualization**.  
 I enjoy solving real-world problems, exploring new tools, and delivering impactful projects with clean and scalable code.
