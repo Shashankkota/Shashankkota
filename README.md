@@ -46,13 +46,6 @@ I enjoy solving real-world problems, exploring new tools, and delivering impactf
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📂 Featured Projects
-- **Real-Time Emotion & Tone Detection** – Facial emotion detection using CNN & LSTM.
-- **Deepfake Face Detection** – Spatial-temporal analysis for video deepfake detection.
-- **Smart Garbage Reporting System** – Web-based reporting with admin & user portals.
-- **System Health Monitoring Dashboard** – Grafana + Prometheus for live server metrics.
 
 ---
 
