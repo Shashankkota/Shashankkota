@@ -56,7 +56,10 @@ I enjoy solving real-world problems, exploring new tools, and delivering impactf
 </p>
 
 ---
+## 📊 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankkota&layout=compact&theme=tokyonight)
 
+---
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/kota-shashank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
