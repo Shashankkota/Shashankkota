@@ -54,6 +54,9 @@ I enjoy solving real-world problems, exploring new tools, and delivering impactf
   <img src="https://github-readme-stats.vercel.app/api?username=Shashankkota&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankkota&theme=radical" height="160" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shashankkota&label=Profile%20views&color=0e75b6&style=flat" alt="Shashankkota" />
+</p>
 
 ---
 ## 📊 Languages Used
