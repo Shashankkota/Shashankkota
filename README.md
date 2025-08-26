@@ -11,7 +11,10 @@
 ## 🚀 About Me
 I am an enthusiastic B.Tech student eager to enter the tech industry, with hands-on experience in **software development, machine learning, cloud technologies, and data visualization**.  
 I enjoy solving real-world problems, exploring new tools, and delivering impactful projects with clean and scalable code.
-
+<p >
+  <img src="https://komarev.com/ghpvc/?username=Shashankkota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter badge" />
+</p>
+</p>
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -68,10 +71,7 @@ I enjoy solving real-world problems, exploring new tools, and delivering impactf
 <a href="https://linkedin.com/in/kota-shashank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shashank96187@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Shashankkota"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashankkota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter badge" />
-</p>
-</p>
+
 
 ---
 ## 💡 Quote of the Day
