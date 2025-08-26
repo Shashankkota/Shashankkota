@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CAF50&center=true&width=550&lines=Passionate+about+Coding+and+Innovation;Always+Learning+New+Technologies;Full+Stack+%7C+Cloud+%7C+ML" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 🚀 About Me
 I am an enthusiastic B.Tech student eager to enter the tech industry, with hands-on experience in **software development, machine learning, cloud technologies, and data visualization**.  
